@@ -1,0 +1,8 @@
+div.node-hello-world-article.node-full:before {
+  content: 'Content starts here!';
+  font-style: italic;
+}
+
+div#block-views-hello-world-block h2 {
+  font-weight: bold;
+}

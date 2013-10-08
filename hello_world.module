@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Hello World feature.
+ */
+
+include_once 'hello_world.features.inc';
